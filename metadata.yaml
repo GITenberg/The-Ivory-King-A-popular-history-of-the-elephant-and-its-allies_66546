@@ -1,0 +1,34 @@
+_repo: The-Ivory-King-A-popular-history-of-the-elephant-and-its-allies_66546
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holder, Charles Frederick
+    birthdate: 1851
+    deathdate: 1915
+    gutenberg_agent_id: '46666'
+    url: http://www.gutenberg.org/2009/agents/46666
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Frederick_Holder
+description: ''
+gutenberg_issued: '2021-10-15'
+identifiers:
+  gutenberg: '66546'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Elephants'
+- GITenberg
+tableOfContents: Natural history of the elephant -- Habits and ways of elephants --
+  The intelligence of the elephant -- The mammoth -- Three and four tusked elephants
+  (mastodons) -- Jumbo -- How Asiatic elephants are captured alive -- Asiatic elephants
+  in captivity -- Hunting the Asiatic elephant -- The white elephant -- Elephants
+  in Ceylon -- Rogue elephants -- Hunting the African elephant -- Baby elephants --
+  Trick elephants -- Elephants and their friends -- Tuskers at work -- Ivory -- The
+  elephant in the arts -- Elephants in the amphitheatre -- The elephant in pageantry
+  -- War elephants of modern Asia -- War elephants of Alexander the Great and his
+  successors -- War elephants of the Romans and Carthaginians -- Proboscidian fictions
+  -- Bibliography.
+title: 'The Ivory King: A popular history of the elephant and its allies'
+url: http://www.gutenberg.org/ebooks/66546
